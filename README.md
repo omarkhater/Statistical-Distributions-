@@ -1,2 +1,7 @@
 # Statistical-Distributions-
-python package to create, manipulate and visualize statistical distributions 
+Python package to create, manipulate and visualize statistical distributions 
+
+# How to install 
+
+# Examples 
+
